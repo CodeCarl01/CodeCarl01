@@ -22,9 +22,9 @@ Je conçois des robots qui bougent, des modèles qui apprennent et des mécanism
 
 | Projet | Description | Stack |
 |---|---|---|
-| 🤖 [**autonomous-robot-simulation**](lien-vers-repo) | Simulation d'un robot naviguant de manière autonome sur une carte avec détection d'obstacles | C++ · OpenCV |
-| 📄 [**pdf-document-classifier**](lien-vers-repo) | Application de classification automatique de documents PDF par Machine Learning | Python · TensorFlow · Scikit-learn |
-| 🦿 [**strandbeest-cad-design**](lien-vers-repo) | Conception et fabrication d'un mécanisme de Strandbeest (Theo Jansen) — 100% mécanique, 0% électronique | SolidWorks · Impression 3D |
+| 🤖 [**autonomous-robot-simulation**](https://github.com/CodeCarl01/Projet-CPP-Robot.git) | Simulation d'un robot naviguant de manière autonome sur une carte avec détection d'obstacles | C++ · OpenCV |
+| 📄 [**pdf-document-classifier**](https://github.com/CodeCarl01/Document-Classifier.git) | Application de classification automatique de documents PDF par Machine Learning | Python · TensorFlow · Scikit-learn |
+| 🦿 [**strandbeest-cad-design**](https://github.com/CodeCarl01/strandbeest-cad-design.git) | Conception et fabrication d'un mécanisme de Strandbeest (Theo Jansen) — 100% mécanique, 0% électronique | SolidWorks · Impression 3D |
 
 ---
 
@@ -40,8 +40,7 @@ Je conçois des robots qui bougent, des modèles qui apprennent et des mécanism
 ### 📬 Me contacter
 
 [![Email](https://img.shields.io/badge/Email-carlmensah01%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:carlmensah01@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carl%20Mensah-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](lien-vers-linkedin)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carl%20Mensah-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/carl-mensah-9b127a2b0)
 ---
 
 *Actuellement à la recherche d'un stage de 2 mois en robotique (juin–août 2025)* 🔍
