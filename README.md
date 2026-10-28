@@ -25,7 +25,6 @@ Je conçois des robots qui bougent, des modèles qui apprennent et des mécanism
 | Projet | Où j'en suis | Stack |
 |---|---|---|
 | 🐕 **Go1 Éco-Assistant** | Robot quadrupède autonome qui détecte et ramasse les déchets. Navigation autonome en simulation Gazebo terminée ; SLAM en cours ; détection YOLOv8 et bras via MoveIt 2 prévus ensuite | ROS 2 · Gazebo · slam_toolbox · YOLOv8 |
-| 🍹 **Robot barman** | Bras 6 axes Doosan M0609 qui sert des boissons, avec des mini-jeux sur tablette pour des élèves de CM1/CM2 (Village des sciences) et une interface sur Raspberry Pi qui pilote le robot | Doosan · Raspberry Pi · HTML/CSS/JS |
 | 🖥️ **Supervision industrielle** | Surveillance d'un local technique (température, humidité, fumée, intrusion, fuite d'eau) avec base de données, détection d'anomalies et interface web | Raspberry Pi 4 · ROS 2 · Flask · SQLite |
 | 🌧️ **ClearDrive** | Restauration de vidéo filmée à travers une vitre sous la pluie. En binôme, je m'occupe de la reconstruction : flot optique, remplissage temporel, inpainting | Python · OpenCV |
 | 🔺 **Éditeur de maillage 3D** | Éditeur interactif basé sur la structure Half-Edge. En binôme, je m'occupe du rendu | C++ · OpenGL |
@@ -39,8 +38,8 @@ Je conçois des robots qui bougent, des modèles qui apprennent et des mécanism
 | 🤖 [**autonomous-robot-simulation**](https://github.com/CodeCarl01/Projet-CPP-Robot) | Simulation d'un robot qui navigue seul sur une carte avec détection d'obstacles | C++ · OpenCV |
 | 📄 [**pdf-document-classifier**](https://github.com/CodeCarl01/Document-Classifier) | Classification automatique de documents PDF par Machine Learning | Python · TensorFlow · Scikit-learn |
 | 🦿 [**strandbeest-cad-design**](https://github.com/CodeCarl01/strandbeest-cad-design) | Conception et fabrication d'un mécanisme de Strandbeest (Theo Jansen), 100 % mécanique | SolidWorks · Impression 3D |
-| 🎙️ **Détection de mots-clés** | Reconnaissance de mots-clés vocaux par extraction MFCC + SVM (87,5 % de précision en test) | Python · Scikit-learn |
-| 🌍 **Lingua500** | Appli web pour apprendre les 500 mots les plus courants en 5 langues, avec répétition espacée (SM-2) et synthèse vocale | JavaScript (vanilla) · Web Speech API |
+| 🎙️ [**Détection de mots-clés**](https://github.com/CodeCarl01/detection_voix.git) | Reconnaissance de mots-clés vocaux par extraction MFCC + SVM (87,5 % de précision en test) | Python · Scikit-learn |
+| 🍹 **Robot barman** | Bras 6 axes Doosan M0609 qui sert des boissons, avec des mini-jeux sur tablette pour des élèves de CM1/CM2 (Village des sciences) et une interface sur Raspberry Pi qui pilote le robot | Doosan · Raspberry Pi · HTML/CSS/JS |
 
 ---
 
