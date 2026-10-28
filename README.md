@@ -1,4 +1,4 @@
-[🇫🇷 Français](https://github.com/CodeCarl01/CodeCarl01#README.fr.md) · 🇬🇧 English
+[🇫🇷 Français](https://github.com/CodeCarl01/CodeCarl01/blob/main/README.fr.md)
 # Hi, I'm Carl 👋
 
 **Robotics engineering student** at [Polytech Dijon](https://www.polytech-dijon.fr/) (Le Creusot campus) 🇫🇷 · originally from Benin 🇧🇯
