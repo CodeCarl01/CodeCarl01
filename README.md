@@ -1,70 +1,70 @@
-🇫🇷 Français · [🇬🇧 English](https://github.com/CodeCarl01/CodeCarl01/blob/main/README.en.md)
-# Salut, moi c'est Carl 👋
+[🇫🇷 Français](https://github.com/CodeCarl01/CodeCarl01#README.fr.md) · 🇬🇧 English
+# Hi, I'm Carl 👋
 
-**Élève ingénieur en Robotique** à [Polytech Dijon](https://www.polytech-dijon.fr/) (site du Creusot) 🇫🇷 · originaire du Bénin 🇧🇯
+**Robotics engineering student** at [Polytech Dijon](https://www.polytech-dijon.fr/) (Le Creusot campus) 🇫🇷 · originally from Benin 🇧🇯
 
-Je conçois des robots qui bougent, des modèles qui apprennent et des mécanismes qui marchent (littéralement, demandez à mon Strandbeest). Je suis en 2ᵉ année du cycle ingénieur (4A), option **Robotique et Instrumentation**. Ce qui m'intéresse : la **robotique mobile et collaborative**, la **vision par ordinateur** et l'**IA embarquée**.
+I build robots that move, models that learn and mechanisms that walk (literally, just ask my Strandbeest). I'm in the 4th year of a 5-year engineering program, specializing in **Robotics & Instrumentation**. What I'm into: **mobile and collaborative robotics**, **computer vision** and **embedded AI**.
 
 ---
 
-### 🛠️ Stack technique
+### 🛠️ Tech stack
 
-| Domaine | Technologies |
+| Area | Technologies |
 |---|---|
-| **Programmation** | Python · C++ · MATLAB · JavaScript · HTML/CSS |
-| **Robotique** | ROS 2 · Gazebo · Unitree Go1 · bras Doosan M0609 |
-| **Vision & IA** | OpenCV · YOLOv8 · TensorFlow · Scikit-learn · Deep Learning |
-| **Embarqué** | Raspberry Pi · Arduino · capteurs GPIO/I2C |
-| **Graphisme 3D** | OpenGL (en apprentissage) |
-| **CAO / Fabrication** | SolidWorks · Impression 3D |
-| **Outils** | Git · Linux · VS Code · Flask |
+| **Programming** | Python · C++ · MATLAB · JavaScript · HTML/CSS |
+| **Robotics** | ROS 2 · Gazebo · Unitree Go1 · Doosan M0609 arm |
+| **Vision & AI** | OpenCV · YOLOv8 · TensorFlow · Scikit-learn · Deep Learning |
+| **Embedded** | Raspberry Pi · Arduino · GPIO/I2C sensors |
+| **3D graphics** | OpenGL (currently learning) |
+| **CAD / Fabrication** | SolidWorks · 3D printing |
+| **Tools** | Git · Linux · VS Code · Flask |
 
 ---
 
-### 🔧 En ce moment
+### 🔧 Currently working on
 
-| Projet | Où j'en suis | Stack |
+| Project | Status | Stack |
 |---|---|---|
-| 🐕 **Go1 Éco-Assistant** | Robot quadrupède autonome qui détecte et ramasse les déchets. Navigation autonome en simulation Gazebo terminée ; SLAM en cours ; détection YOLOv8 et bras via MoveIt 2 prévus ensuite | ROS 2 · Gazebo · slam_toolbox · YOLOv8 |
-| 🖥️ **Supervision industrielle** | Surveillance d'un local technique (température, humidité, fumée, intrusion, fuite d'eau) avec base de données, détection d'anomalies et interface web | Raspberry Pi 4 · ROS 2 · Flask · SQLite |
-| 🌧️ **ClearDrive** | Restauration de vidéo filmée à travers une vitre sous la pluie. En binôme, je m'occupe de la reconstruction : flot optique, remplissage temporel, inpainting | Python · OpenCV |
-| 🔺 **Éditeur de maillage 3D** | Éditeur interactif basé sur la structure Half-Edge. En binôme, je m'occupe du rendu | C++ · OpenGL |
+| 🐕 **Go1 Eco-Assistant** | Autonomous quadruped robot that detects and picks up litter. Autonomous navigation in Gazebo simulation done; SLAM in progress; YOLOv8 detection and arm control with MoveIt 2 planned next | ROS 2 · Gazebo · slam_toolbox · YOLOv8 |
+| 🖥️ **Industrial monitoring** | Monitoring system for a technical room (temperature, humidity, smoke, intrusion, water leaks) with a database, anomaly detection and a web interface | Raspberry Pi 4 · ROS 2 · Flask · SQLite |
+| 🌧️ **ClearDrive** | Restoring video filmed through a rain-covered window. Team of two; I handle the reconstruction part: optical flow, temporal filling, inpainting | Python · OpenCV |
+| 🔺 **3D mesh editor** | Interactive editor built on the Half-Edge data structure. Team of two; I handle the rendering | C++ · OpenGL |
 
 ---
 
-### 🚀 Projets réalisés
+### 🚀 Completed projects
 
-| Projet | Description | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| 🤖 [**autonomous-robot-simulation**](https://github.com/CodeCarl01/Projet-CPP-Robot) | Simulation d'un robot qui navigue seul sur une carte avec détection d'obstacles | C++ · OpenCV |
-| 📄 [**pdf-document-classifier**](https://github.com/CodeCarl01/Document-Classifier) | Classification automatique de documents PDF par Machine Learning | Python · TensorFlow · Scikit-learn |
-| 🦿 [**strandbeest-cad-design**](https://github.com/CodeCarl01/strandbeest-cad-design) | Conception et fabrication d'un mécanisme de Strandbeest (Theo Jansen), 100 % mécanique | SolidWorks · Impression 3D |
-| 🎙️ [**Détection de mots-clés**](https://github.com/CodeCarl01/detection_voix.git) | Reconnaissance de mots-clés vocaux par extraction MFCC + SVM (87,5 % de précision en test) | Python · Scikit-learn |
-| 🍹 **Robot barman** | Bras 6 axes Doosan M0609 qui sert des boissons, avec des mini-jeux sur tablette pour des élèves de CM1/CM2 (Village des sciences) et une interface sur Raspberry Pi qui pilote le robot | Doosan · Raspberry Pi · HTML/CSS/JS |
+| 🤖 [**autonomous-robot-simulation**](https://github.com/CodeCarl01/Projet-CPP-Robot) | Simulation of a robot navigating a map on its own with obstacle detection | C++ · OpenCV |
+| 📄 [**pdf-document-classifier**](https://github.com/CodeCarl01/Document-Classifier) | Automatic classification of PDF documents with machine learning | Python · TensorFlow · Scikit-learn |
+| 🦿 [**strandbeest-cad-design**](https://github.com/CodeCarl01/strandbeest-cad-design) | Design and fabrication of a Strandbeest mechanism (Theo Jansen), 100% mechanical | SolidWorks · 3D printing |
+| 🎙️ [**Keyword spotting**](https://github.com/CodeCarl01/detection_voix) | Spoken keyword recognition using MFCC features + SVM (87.5% test accuracy) | Python · Scikit-learn |
+| 🍹 **Robot bartender** | 6-axis Doosan M0609 arm that serves drinks, with tablet mini-games for 9–11-year-old kids at a public science fair and a Raspberry Pi interface that controls the robot | Doosan · Raspberry Pi · HTML/CSS/JS |
 
 ---
 
-### 💼 Expérience
+### 💼 Experience
 
-- 🔬 **Stage au laboratoire M2S** (Mouvement, Sport et Santé, Université de Rennes) : automatisation du post-traitement de capture de mouvement dans Qualisys QTM en Python (labellisation AIM, comblement des trous de trajectoires, traitement par lots)
-
----
-
-### 🏆 Hackathons & compétitions
-
-- 🏎️ **AWAKE Challenge** : compétition inter-écoles de véhicules autonomes à l'échelle 1/10
-- 💡 **Hackathon FRIARE 2025** : innovation technologique
-- 🥇 **Hackathon ML, EEIA 2024** (sponsorisé par TotalEnergies) : prédiction multi-cibles à partir de 14 variables numériques
-- ⚡ **Hackathon Arduino Days, Sèmè City 2024** : prototypage électronique et programmation embarquée
-- 🎓 **École d'Été sur l'IA (EEIA) 2024** : Bénin Excellence
+- 🔬 **Internship at the M2S Lab** (Movement, Sport and Health, University of Rennes): automated motion-capture post-processing in Qualisys QTM with Python (AIM marker labeling, trajectory gap-filling, batch processing)
 
 ---
 
-### 📬 Me contacter
+### 🏆 Hackathons & competitions
+
+- 🏎️ **AWAKE Challenge**: inter-school 1/10-scale autonomous vehicle competition
+- 💡 **FRIARE Hackathon 2025**: tech innovation
+- 🥇 **ML Hackathon, EEIA 2024** (sponsored by TotalEnergies): multi-target prediction from 14 numerical features
+- ⚡ **Arduino Days Hackathon, Sèmè City 2024**: electronics prototyping and embedded programming
+- 🎓 **AI Summer School (EEIA) 2024**: Bénin Excellence
+
+---
+
+### 📬 Get in touch
 
 [![Email](https://img.shields.io/badge/Email-carlmensah01%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:carlmensah01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carl%20Mensah-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carl-mensah-9b127a2b0)
 
 ---
 
-*Je cherche un stage de recherche de 4 à 5 mois à l'étranger, de préférence en Asie, à partir d'avril 2027* 🔍
+*Looking for a 4–5 month research internship abroad, ideally in Asia, starting April 2027* 🔍
