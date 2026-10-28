@@ -1,3 +1,4 @@
+🇫🇷 Français · [🇬🇧 English](https://github.com/CodeCarl01/CodeCarl01/blob/main/README.en.md)
 # Salut, moi c'est Carl 👋
 
 **Élève ingénieur en Robotique** à [Polytech Dijon](https://www.polytech-dijon.fr/) (site du Creusot) 🇫🇷 · originaire du Bénin 🇧🇯
